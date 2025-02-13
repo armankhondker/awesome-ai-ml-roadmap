@@ -1,4 +1,5 @@
-# awesome-ai-ml-roadmap
+# Awesome AI/ML Roadmap
+This repository contains a roadmap to transition to AI/ML engineering. 
 
 ## 🚗 AI/ML Roadmap
 1. Build a Strong Math Foundation
